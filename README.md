@@ -2,8 +2,6 @@
 <h3 align="center">I’m a passionate Cloud enthusiast currently working as a DevOps Intern at Toshal Infotech.
 </h3>
 
-- 📫 How to reach me **aakashdeepsingh69146@gmail.com**
-
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1zTjL_QFSZismwH3kIFcYMkhOoyGd5ZGq/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
@@ -13,7 +11,7 @@
 <a href="https://hashnode.com/@aakashdeep8530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aakashdeep8530" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">TECHNICAL SKILLS:</h3>
 <p align="left"> <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
