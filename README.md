@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aakashdeep Singh</h1>
-<h3 align="center">👋 I’m a passionate Cloud enthusiast currently working as a DevOps Intern at Toshal Infotech. With four months of hands-on experience, I specialize in leveraging modern DevOps tools and practices to enhance operational efficiency and streamline processes</h3>
+<h3 align="center">👋 I’m a passionate Cloud enthusiast currently working as a DevOps Intern at Toshal Infotech.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
