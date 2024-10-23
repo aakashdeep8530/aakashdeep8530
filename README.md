@@ -1,12 +1,139 @@
-<h1 align="center">Hi 👋, I'm Aakashdeep Singh</h1>
-<h3 align="center">👋 I’m a passionate Cloud enthusiast currently working as a DevOps Intern at Toshal Infotech.</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My GitHub Profile</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .skills {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 15px;
+        }
+        .skill {
+            background: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 10px;
+            text-align: center;
+            width: 120px;
+        }
+        img {
+            width: 50px;
+            height: 50px;
+        }
+    </style>
+</head>
+<body>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aakashdeep-singh-b323a4243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakashdeep-singh-b323a4243/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@aakashdeep8530/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://aakashdeep8530.hashnode.dev/" height="30" width="40" /></a>
-</p>
+<h1>My Skills</h1>
+<div class="skills">
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.png" alt="Linux">
+        <p>Linux</p>
+    </div>
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Windows_logo_-_2012.png" alt="Windows">
+        <p>Windows</p>
+    </div>
+    <div class="skill">
+        <img src="https://git-scm.com/images/logos/git-icon-1981x1211.png" alt="Git">
+        <p>Git</p>
+    </div>
+    <div class="skill">
+        <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub">
+        <p>GitHub</p>
+    </div>
+    <div class="skill">
+        <img src="https://d1.awsstatic.com/Logo/Amazon-Web-Services-Logo-2018.0efef8e2a1d7e275ba6d19e9f7a6f7192b8e8c2b.png" alt="AWS">
+        <p>AWS</p>
+    </div>
+    <div class="skill">
+        <img src="https://www.python.org/community/logos/python-logo-master-v3-TM.png" alt="Python">
+        <p>Python</p>
+    </div>
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Bash_Logo.svg" alt="Shell">
+        <p>Shell</p>
+    </div>
+    <div class="skill">
+        <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.png" alt="Jenkins">
+        <p>Jenkins</p>
+    </div>
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Amazon_CodePipeline_logo.png" alt="CodePipeline">
+        <p>CodePipeline</p>
+    </div>
+    <div class="skill">
+        <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker">
+        <p>Docker</p>
+    </div>
+    <div class="skill">
+        <img src="https://kubernetes.io/images/favicon.png" alt="Kubernetes">
+        <p>Kubernetes</p>
+    </div>
+    <div class="skill">
+        <img src="https://www.ansible.com/hubfs/Ansible_Icon.png" alt="Ansible">
+        <p>Ansible</p>
+    </div>
+    <div class="skill">
+        <img src="https://www.terraform.io/assets/images/og-image.png" alt="Terraform">
+        <p>Terraform</p>
+    </div>
+    <div class="skill">
+        <img src="https://aws.amazon.com/architecture/icons/architecture-icons/aws-cloudformation.svg" alt="CloudFormation">
+        <p>CloudFormation</p>
+    </div>
+    <div class="skill">
+        <img src="https://prometheus.io/assets/prometheus_logo.svg" alt="Prometheus">
+        <p>Prometheus</p>
+    </div>
+    <div class="skill">
+        <img src="https://grafana.com/static/img/favicon.ico" alt="Grafana">
+        <p>Grafana</p>
+    </div>
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Tcpip.svg" alt="TCP/IP">
+        <p>TCP/IP</p>
+    </div>
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Dns_icon.svg" alt="DNS">
+        <p>DNS</p>
+    </div>
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Loadbalancer.png" alt="Load Balancing">
+        <p>Load Balancing</p>
+    </div>
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/SSL_TLS_Logo.svg" alt="SSL/TLS">
+        <p>SSL/TLS</p>
+    </div>
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Firewall_icon.svg" alt="Firewall">
+        <p>Firewall</p>
+    </div>
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Amazon_IAM_Logo.svg" alt="IAM">
+        <p>IAM</p>
+    </div>
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/VMware_Logo.svg" alt="VMware">
+        <p>VMware</p>
+    </div>
+    <div class="skill">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/VirtualBox_Logo.svg" alt="VirtualBox">
+        <p>VirtualBox</p>
+    </div>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
-
+</body>
+</html>
