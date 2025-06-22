@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/aakashdeep-singh-b323a4243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakashdeep-singh-b323a4243/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aakashdeep8530/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aakashdeep-singh-b323a4243/" height="30" width="40" /></a>
 <a href="https://instagram.com/aakashdeep__singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aakashdeep__singh" height="30" width="40" /></a>
 <a href="https://hashnode.com/@aakashdeep8530" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@aakashdeep8530" height="30" width="40" /></a>
 </p>
