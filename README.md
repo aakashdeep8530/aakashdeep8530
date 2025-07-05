@@ -65,8 +65,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://iamops.io/wp-content/uploads/2024/06/Azure.svg" width="50" height="50" alt="Azure"/>
         <br><strong>Azure</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" width="50" height="50" alt="Bash/Shell"/>
         <br><strong>Bash/Shell</strong>
@@ -75,8 +73,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://assets.exercism.org/tracks/yamlscript.svg" width="50" height="50" alt="YAML"/>
         <br><strong>YAML</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50" alt="Docker"/>
         <br><strong>Docker</strong>
