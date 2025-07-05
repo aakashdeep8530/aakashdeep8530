@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-<div align="center">
+<div align="">
 
 ```yaml
 name: "Aakashdeep Singh"
@@ -243,26 +243,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
 - **Cloud Architecture**: Multi-cloud solutions with AWS and Azure
 - **Monitoring & Observability**: Comprehensive system monitoring and alerting
 - **Security First**: Implementing security best practices across all layers
-
-## 🌟 Featured Projects & Contributions
-
-<div align="center">
-  <a href="https://github.com/aakashdeep8530/kubernetes-cluster-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakashdeep8530&repo=kubernetes-cluster-automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Kubernetes Automation" />
-  </a>
-  <a href="https://github.com/aakashdeep8530/terraform-aws-infrastructure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakashdeep8530&repo=terraform-aws-infrastructure&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Terraform AWS" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/aakashdeep8530/cicd-pipeline-templates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakashdeep8530&repo=cicd-pipeline-templates&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="CI/CD Templates" />
-  </a>
-  <a href="https://github.com/aakashdeep8530/monitoring-stack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakashdeep8530&repo=monitoring-stack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Monitoring Stack" />
-  </a>
-</div>
 
 ## 📫 Let's Connect & Collaborate
 
