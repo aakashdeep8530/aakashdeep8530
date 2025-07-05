@@ -57,8 +57,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" width="50" height="50" alt="Windows"/>
         <br><strong>Windows</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://iamops.io/wp-content/uploads/2024/06/aws.svg" width="50" height="50" alt="AWS"/>
         <br><strong>AWS</strong>
