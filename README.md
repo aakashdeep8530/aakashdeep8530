@@ -33,12 +33,12 @@ philosophy: "Automate everything, monitor everything, secure everything"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aakashdeep8530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdeep8530&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" height="180"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aakashdeep8530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 💻 Tech Stack & Expertise
@@ -60,12 +60,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <br><strong>Windows</strong>
       </td>
     </tr>
-  </table>
-</div>
-
-### ☁️ Cloud Platforms
-<div align="center">
-  <table>
     <tr>
       <td align="center" width="100">
         <img src="https://iamops.io/wp-content/uploads/2024/06/aws.svg" width="50" height="50" alt="AWS"/>
@@ -76,12 +70,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <br><strong>Azure</strong>
       </td>
     </tr>
-  </table>
-</div>
-
-### 📝 Scripting
-<div align="center">
-  <table>
     <tr>
       <td align="center" width="100">
         <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" width="50" height="50" alt="Bash/Shell"/>
@@ -92,12 +80,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <br><strong>YAML</strong>
       </td>
     </tr>
-  </table>
-</div>
-
-### 🐳 Containers & Orchestration
-<div align="center">
-  <table>
     <tr>
       <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50" alt="Docker"/>
@@ -112,12 +94,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <br><strong>ECS</strong>
       </td>
     </tr>
-  </table>
-</div>
-
-### 🏗️ Infrastructure as Code
-<div align="center">
-  <table>
     <tr>
       <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/terraform/623CE4" width="50" height="50" alt="Terraform"/>
@@ -132,12 +108,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <br><strong>CloudFormation</strong>
       </td>
     </tr>
-  </table>
-</div>
-
-### 🌐 Hosting Platforms & Web Servers
-<div align="center">
-  <table>
     <tr>
       <td align="center" width="100">
         <img src="https://cdn.prod.website-files.com/612f5131b9c94eda2fe9c725/6650b305bf6d81ad12356860_GoDaddy-Logo%201.png" width="50" height="50" alt="GoDaddy"/>
@@ -156,12 +126,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <br><strong>Apache</strong>
       </td>
     </tr>
-  </table>
-</div>
-
-### 🔄 CI/CD & Automation
-<div align="center">
-  <table>
     <tr>
       <td align="center" width="100">
         <img src="https://iamops.io/wp-content/uploads/2024/06/Jenkins.svg" width="50" height="50" alt="Jenkins"/>
@@ -190,12 +154,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <br><strong>Azure Pipeline</strong>
       </td>
     </tr>
-  </table>
-</div>
-
-### 📊 Monitoring & Observability
-<div align="center">
-  <table>
     <tr>
       <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="50" height="50" alt="Prometheus"/>
@@ -224,12 +182,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <br><strong>LogStash</strong>
       </td>
     </tr>
-  </table>
-</div>
-
-### 🔒 Networking & Security
-<div align="center">
-  <table>
     <tr>
       <td align="center" width="100">
         <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/dns-5528460-4659348.png?f=webp&w=256" width="50" height="50" alt="DNS"/>
@@ -268,11 +220,11 @@ philosophy: "Automate everything, monitor everything, secure everything"
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&area_color=667eea" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aakashdeep8530&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area=true&area_color=667eea" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdeep8530&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
 ## 🏆 Professional Certifications & Achievements
@@ -311,20 +263,20 @@ philosophy: "Automate everything, monitor everything, secure everything"
 ## 🌟 Featured Projects & Contributions
 
 <div align="center">
-  <a href="https://github.com/yourusername/kubernetes-cluster-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=kubernetes-cluster-automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Kubernetes Automation" />
+  <a href="https://github.com/aakashdeep8530/kubernetes-cluster-automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakashdeep8530&repo=kubernetes-cluster-automation&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Kubernetes Automation" />
   </a>
-  <a href="https://github.com/yourusername/terraform-aws-infrastructure">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=terraform-aws-infrastructure&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Terraform AWS" />
+  <a href="https://github.com/aakashdeep8530/terraform-aws-infrastructure">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakashdeep8530&repo=terraform-aws-infrastructure&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Terraform AWS" />
   </a>
 </div>
 
 <div align="center">
-  <a href="https://github.com/yourusername/cicd-pipeline-templates">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=cicd-pipeline-templates&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="CI/CD Templates" />
+  <a href="https://github.com/aakashdeep8530/cicd-pipeline-templates">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakashdeep8530&repo=cicd-pipeline-templates&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="CI/CD Templates" />
   </a>
-  <a href="https://github.com/yourusername/monitoring-stack">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=monitoring-stack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Monitoring Stack" />
+  <a href="https://github.com/aakashdeep8530/monitoring-stack">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aakashdeep8530&repo=monitoring-stack&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Monitoring Stack" />
   </a>
 </div>
 
@@ -348,8 +300,8 @@ philosophy: "Automate everything, monitor everything, secure everything"
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=667eea" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=aakashdeep8530&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/aakashdeep8530?label=Followers&style=for-the-badge&color=667eea" alt="GitHub Followers" />
 </div>
 
 ---
