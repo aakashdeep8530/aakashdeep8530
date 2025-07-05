@@ -99,8 +99,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" width="50" height="50" alt="CloudFormation"/>
         <br><strong>CloudFormation</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://cdn.prod.website-files.com/612f5131b9c94eda2fe9c725/6650b305bf6d81ad12356860_GoDaddy-Logo%201.png" width="50" height="50" alt="GoDaddy"/>
         <br><strong>GoDaddy</strong>
