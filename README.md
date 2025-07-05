@@ -117,8 +117,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://logo.svgcdn.com/l/apache-8x.png" width="50" height="50" alt="Apache"/>
         <br><strong>Apache</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://iamops.io/wp-content/uploads/2024/06/Jenkins.svg" width="50" height="50" alt="Jenkins"/>
         <br><strong>Jenkins</strong>
@@ -131,12 +129,12 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://iamops.io/wp-content/uploads/2024/06/github-actions.svg" width="50" height="50" alt="GitHub Actions"/>
         <br><strong>GitHub Actions</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" width="50" height="50" alt="BitBucket"/>
         <br><strong>BitBucket</strong>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodePipeline.svg" width="50" height="50" alt="CodePipeline"/>
         <br><strong>CodePipeline</strong>
@@ -145,8 +143,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://www.wecoderight.com/wp-content/uploads/2023/06/azure.png" width="50" height="50" alt="Azure Pipeline"/>
         <br><strong>Azure Pipeline</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="50" height="50" alt="Prometheus"/>
         <br><strong>Prometheus</strong>
@@ -159,8 +155,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://elpuig.xeill.net/Members/vcarceler/articulos/introduccion-a-la-monitorizacion-con-grafana-y-loki/logo-1.png/@@images/13dd22a2-267b-4821-99ed-3e153d86ce7c.png" width="50" height="50" alt="Loki"/>
         <br><strong>Loki</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://icon.icepanel.io/Technology/png-shadow-512/Elastic-Search.png" width="50" height="50" alt="ELK Stack"/>
         <br><strong>ELK Stack</strong>
