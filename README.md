@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=DevOps%20Engineer&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Cloud%20Infrastructure%20%7C%20Automation%20%7C%20Scalability&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=DevOps%20Engineer&fontSize=60&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Cloud%20Infrastructure%20%7C%20Automation%20%7C%20Monitoring%20%7C%20Scalability&descAlignY=55&descSize=20" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&color=667eea&lines=Hi+There!+👋+I'm+a+DevOps+Engineer;Cloud+Infrastructure+Specialist;Automation+%26+CI%2FCD+Expert;Kubernetes+%26+Container+Orchestration;Infrastructure+as+Code+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=80&duration=4000&pause=1000&color=667eea&lines=Cloud+Infrastructure+Specialist;Automation+%26+CI%2FCD+Expert;Container+Orchestration;Infrastructure+as+Code" />
 </div>
 
 <div align="center">
