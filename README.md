@@ -15,8 +15,8 @@
 <div align="center">
 
 ```yaml
-name: "DevOps Engineer"
-location: "Cloud Infrastructure"
+name: "Aakashdeep Singh"
+location: "Surat, Gujarat"
 current_focus: 
   - "Infrastructure as Code & Automation"
   - "Container Orchestration & Kubernetes"
@@ -24,7 +24,7 @@ current_focus:
   - "Cloud Architecture & Security"
   - "Monitoring & Observability"
 experience:
-  - "5+ years in DevOps & Cloud Engineering"
+  - "1+ years in DevOps & Cloud Engineering"
   - "Multi-cloud expertise (AWS, Azure)"
   - "Enterprise-scale infrastructure management"
 philosophy: "Automate everything, monitor everything, secure everything"
@@ -77,12 +77,12 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50" alt="Docker"/>
         <br><strong>Docker</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="50" height="50" alt="Kubernetes"/>
         <br><strong>Kubernetes</strong>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://logo.svgcdn.com/l/aws-ecs-8x.png" width="50" height="50" alt="ECS"/>
         <br><strong>ECS</strong>
@@ -107,8 +107,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" width="50" height="50" alt="Route 53"/>
         <br><strong>Route 53</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://img.icons8.com/?size=256w&id=LhQ8M0RI4YLP&format=png" width="50" height="50" alt="Nginx"/>
         <br><strong>Nginx</strong>
@@ -117,6 +115,8 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://logo.svgcdn.com/l/apache-8x.png" width="50" height="50" alt="Apache"/>
         <br><strong>Apache</strong>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://iamops.io/wp-content/uploads/2024/06/Jenkins.svg" width="50" height="50" alt="Jenkins"/>
         <br><strong>Jenkins</strong>
@@ -137,8 +137,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodePipeline.svg" width="50" height="50" alt="CodePipeline"/>
         <br><strong>CodePipeline</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://www.wecoderight.com/wp-content/uploads/2023/06/azure.png" width="50" height="50" alt="Azure Pipeline"/>
         <br><strong>Azure Pipeline</strong>
@@ -151,6 +149,8 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://cdn.simpleicons.org/grafana/F46800" width="50" height="50" alt="Grafana"/>
         <br><strong>Grafana</strong>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://elpuig.xeill.net/Members/vcarceler/articulos/introduccion-a-la-monitorizacion-con-grafana-y-loki/logo-1.png/@@images/13dd22a2-267b-4821-99ed-3e153d86ce7c.png" width="50" height="50" alt="Loki"/>
         <br><strong>Loki</strong>
@@ -167,8 +167,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://icon.icepanel.io/Technology/svg/Logstash.svg" width="50" height="50" alt="LogStash"/>
         <br><strong>LogStash</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/dns-5528460-4659348.png?f=webp&w=256" width="50" height="50" alt="DNS"/>
         <br><strong>DNS</strong>
@@ -185,6 +183,8 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/IAM-Identity-Center.svg" width="50" height="50" alt="IAM"/>
         <br><strong>IAM</strong>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/ssl-icon-download-in-svg-png-gif-file-formats--security-certificate-shield-protection-lock-web-hosting-pack-design-development-icons-10801665.png?f=webp&w=256" width="50" height="50" alt="SSL"/>
         <br><strong>SSL</strong>
