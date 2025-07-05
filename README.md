@@ -77,6 +77,8 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50" alt="Docker"/>
         <br><strong>Docker</strong>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="50" height="50" alt="Kubernetes"/>
         <br><strong>Kubernetes</strong>
@@ -85,8 +87,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://logo.svgcdn.com/l/aws-ecs-8x.png" width="50" height="50" alt="ECS"/>
         <br><strong>ECS</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://cdn.simpleicons.org/terraform/623CE4" width="50" height="50" alt="Terraform"/>
         <br><strong>Terraform</strong>
@@ -107,6 +107,8 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" width="50" height="50" alt="Route 53"/>
         <br><strong>Route 53</strong>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://img.icons8.com/?size=256w&id=LhQ8M0RI4YLP&format=png" width="50" height="50" alt="Nginx"/>
         <br><strong>Nginx</strong>
@@ -131,12 +133,12 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" width="50" height="50" alt="BitBucket"/>
         <br><strong>BitBucket</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodePipeline.svg" width="50" height="50" alt="CodePipeline"/>
         <br><strong>CodePipeline</strong>
       </td>
+    </tr>
+    <tr>
       <td align="center" width="100">
         <img src="https://www.wecoderight.com/wp-content/uploads/2023/06/azure.png" width="50" height="50" alt="Azure Pipeline"/>
         <br><strong>Azure Pipeline</strong>
@@ -179,8 +181,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/firewall-2306882-1948591.png?f=webp&w=256" width="50" height="50" alt="Firewall"/>
         <br><strong>Firewall</strong>
       </td>
-    </tr>
-    <tr>
       <td align="center" width="100">
         <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/IAM-Identity-Center.svg" width="50" height="50" alt="IAM"/>
         <br><strong>IAM</strong>
