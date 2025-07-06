@@ -272,7 +272,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
   **"Automate everything, monitor everything, secure everything."**
   
   <br>
-  
   **Thanks for visiting! Let's build the future of infrastructure together! 🚀**
   
 </div>
