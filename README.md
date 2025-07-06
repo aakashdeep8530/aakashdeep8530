@@ -30,18 +30,19 @@ philosophy: "Automate everything, monitor everything, secure everything"
 
 </div>
 
-<div align="center">
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=aakashdeep8530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" 
     alt="GitHub Stats" 
-    height="100"
+    style="width: 45%; min-width: 250px;"
   />
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdeep8530&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" 
     alt="GitHub Streak" 
-    height="100"
+    style="width: 45%; min-width: 250px;"
   />
 </div>
+
 
 <div align="">
   <img src="https://github-profile-trophy.vercel.app/?username=aakashdeep8530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=9" alt="GitHub Trophies" />
