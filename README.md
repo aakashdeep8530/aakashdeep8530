@@ -47,7 +47,7 @@ philosophy: "Automate everything, monitor everything, secure everything"
 <div align="">
   <img src="https://github-profile-trophy.vercel.app/?username=aakashdeep8530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=9" alt="GitHub Trophies" />
 </div>
-## 💻 Tech Stack & Expertise
+💻 Tech Stack & Expertise
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -257,8 +257,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
   </a>
   <img src="https://komarev.com/ghpvc/?username=aakashdeep8530&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 </div>
-
----
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </div>
