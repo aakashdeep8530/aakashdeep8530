@@ -25,7 +25,6 @@ experience:
   - "1+ years in DevOps & Cloud Engineering"
   - "Multi-cloud expertise (AWS, Azure)"
   - "Enterprise-scale infrastructure management"
-philosophy: "Automate everything, monitor everything, secure everything"
 ```
 
 </div>
@@ -43,6 +42,7 @@ philosophy: "Automate everything, monitor everything, secure everything"
   />
 </div>
 
+---
 
 <div align="">
   <img src="https://github-profile-trophy.vercel.app/?username=aakashdeep8530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=9" alt="GitHub Trophies" />
