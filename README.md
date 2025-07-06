@@ -37,7 +37,7 @@ philosophy: "Automate everything, monitor everything, secure everything"
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdeep8530&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" height="180"/>
 </div>
 
-<div align="center">
+<div align="">
   <img src="https://github-profile-trophy.vercel.app/?username=aakashdeep8530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
