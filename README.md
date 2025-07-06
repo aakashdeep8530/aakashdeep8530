@@ -40,72 +40,165 @@ philosophy: "Automate everything, monitor everything, secure everything"
 <div align="">
   <img src="https://github-profile-trophy.vercel.app/?username=aakashdeep8530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=2&column=9" alt="GitHub Trophies" />
 </div>
+<div>
+<table align="center">
+  <!-- Group 1: OS & Cloud Providers -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="50" height="50" alt="Linux"/>
+      <br><strong>Linux</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" width="50" height="50" alt="Windows"/>
+      <br><strong>Windows</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://iamops.io/wp-content/uploads/2024/06/aws.svg" width="50" height="50" alt="AWS"/>
+      <br><strong>AWS</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://iamops.io/wp-content/uploads/2024/06/Azure.svg" width="50" height="50" alt="Azure"/>
+      <br><strong>Azure</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" width="50" height="50" alt="Bash/Shell"/>
+      <br><strong>Bash/Shell</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://assets.exercism.org/tracks/yamlscript.svg" width="50" height="50" alt="YAML"/>
+      <br><strong>YAML</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/docker/2496ED" width="50" height="50" alt="Docker"/>
+      <br><strong>Docker</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="50" height="50" alt="Kubernetes"/>
+      <br><strong>Kubernetes</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://logo.svgcdn.com/l/aws-ecs-8x.png" width="50" height="50" alt="ECS"/>
+      <br><strong>ECS</strong>
+    </td>
+  </tr>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>💻 Tech Stack & Expertise</title>
-</head>
-<body>
+  <!-- Group 2: Infrastructure as Code -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/terraform/623CE4" width="50" height="50" alt="Terraform"/>
+      <br><strong>Terraform</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://iamops.io/wp-content/uploads/2024/06/Azad-Gamer.svg" width="50" height="50" alt="Ansible"/>
+      <br><strong>Ansible</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" width="50" height="50" alt="CloudFormation"/>
+      <br><strong>CloudFormation</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.prod.website-files.com/612f5131b9c94eda2fe9c725/6650b305bf6d81ad12356860_GoDaddy-Logo%201.png" width="50" height="50" alt="GoDaddy"/>
+      <br><strong>GoDaddy</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" width="50" height="50" alt="Route 53"/>
+      <br><strong>Route 53</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://img.icons8.com/?size=256w&id=LhQ8M0RI4YLP&format=png" width="50" height="50" alt="Nginx"/>
+      <br><strong>Nginx</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://logo.svgcdn.com/l/apache-8x.png" width="50" height="50" alt="Apache"/>
+      <br><strong>Apache</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://iamops.io/wp-content/uploads/2024/06/Jenkins.svg" width="50" height="50" alt="Jenkins"/>
+      <br><strong>Jenkins</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="50" height="50" alt="GitLab CI"/>
+      <br><strong>GitLab CI</strong>
+    </td>
+  </tr>
 
-<h2 align="center">💻 Tech Stack & Expertise</h2>
+  <!-- Group 3: CI/CD Tools -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://iamops.io/wp-content/uploads/2024/06/github-actions.svg" width="50" height="50" alt="GitHub Actions"/>
+      <br><strong>GitHub Actions</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" width="50" height="50" alt="BitBucket"/>
+      <br><strong>BitBucket</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodePipeline.svg" width="50" height="50" alt="CodePipeline"/>
+      <br><strong>CodePipeline</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://www.wecoderight.com/wp-content/uploads/2023/06/azure.png" width="50" height="50" alt="Azure Pipeline"/>
+      <br><strong>Azure Pipeline</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/prometheus/E6522C" width="50" height="50" alt="Prometheus"/>
+      <br><strong>Prometheus</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.simpleicons.org/grafana/F46800" width="50" height="50" alt="Grafana"/>
+      <br><strong>Grafana</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://elpuig.xeill.net/Members/vcarceler/articulos/introduccion-a-la-monitorizacion-con-grafana-y-loki/logo-1.png/@@images/13dd22a2-267b-4821-99ed-3e153d86ce7c.png" width="50" height="50" alt="Loki"/>
+      <br><strong>Loki</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/Technology/png-shadow-512/Elastic-Search.png" width="50" height="50" alt="ELK Stack"/>
+      <br><strong>ELK Stack</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/Technology/svg/Kibana.svg" width="50" height="50" alt="Kibana"/>
+      <br><strong>Kibana</strong>
+    </td>
+  </tr>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <!-- Group 4: Logging & Security -->
+  <tr>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/Technology/svg/Logstash.svg" width="50" height="50" alt="LogStash"/>
+      <br><strong>LogStash</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://symbols.getvecta.com/stencil_9/39_load-balancer.af7d4495ba.svg" width="50" height="50" alt="Load Balancing"/>
+      <br><strong>Load Balancing</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/firewall-2306882-1948591.png?f=webp&w=256" width="50" height="50" alt="Firewall"/>
+      <br><strong>Firewall</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/IAM-Identity-Center.svg" width="50" height="50" alt="IAM"/>
+      <br><strong>IAM</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/ssl-icon-download-in-svg-png-gif-file-formats--security-certificate-shield-protection-lock-web-hosting-pack-design-development-icons-10801665.png?f=webp&w=256" width="50" height="50" alt="SSL"/>
+      <br><strong>SSL</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Secrets-Manager.svg" width="50" height="50" alt="Secret Manager"/>
+      <br><strong>Secret Manager</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://logo.svgcdn.com/d/sonarqube-original-8x.png" width="50" height="50" alt="SonarQube"/>
+      <br><strong>SonarQube</strong>
+    </td>
+    <td align="center" width="100">
+      <img src="https://artifacthub.io/image/23e5c086-737a-4d46-b96a-da28674322a6@4x" width="50" height="50" alt="Trivy"/>
+      <br><strong>Trivy</strong>
+    </td>
+  </tr>
+</table>
 </div>
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="32" height="32"/><br><strong>Linux</strong></td>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" width="32" height="32"/><br><strong>Windows</strong></td>
-      <td align="center" width="100"><img src="https://iamops.io/wp-content/uploads/2024/06/aws.svg" width="32" height="32"/><br><strong>AWS</strong></td>
-      <td align="center" width="100"><img src="https://iamops.io/wp-content/uploads/2024/06/Azure.svg" width="32" height="32"/><br><strong>Azure</strong></td>
-      <td align="center" width="100"><img src="https://runcode-app-public.s3.amazonaws.com/images/bash-shell-script-online-editor-compiler.original.png" width="32" height="32"/><br><strong>Bash/Shell</strong></td>
-      <td align="center" width="100"><img src="https://assets.exercism.org/tracks/yamlscript.svg" width="32" height="32"/><br><strong>YAML</strong></td>
-      <td align="center" width="100"><img src="https://cdn.simpleicons.org/docker/2496ED" width="32" height="32"/><br><strong>Docker</strong></td>
-      <td align="center" width="100"><img src="https://cdn.simpleicons.org/kubernetes/326CE5" width="32" height="32"/><br><strong>Kubernetes</strong></td>
-      <td align="center" width="100"><img src="https://logo.svgcdn.com/l/aws-ecs-8x.png" width="32" height="32"/><br><strong>ECS</strong></td>
-    </tr>
-    <tr>
-      <td align="center" width="100"><img src="https://cdn.simpleicons.org/terraform/623CE4" width="32" height="32"/><br><strong>Terraform</strong></td>
-      <td align="center" width="100"><img src="https://iamops.io/wp-content/uploads/2024/06/Azad-Gamer.svg" width="32" height="32"/><br><strong>Ansible</strong></td>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/AWS/svg/Management-Governance/CloudFormation.svg" width="32" height="32"/><br><strong>CloudFormation</strong></td>
-      <td align="center" width="100"><img src="https://cdn.prod.website-files.com/612f5131b9c94eda2fe9c725/6650b305bf6d81ad12356860_GoDaddy-Logo%201.png" width="32" height="32"/><br><strong>GoDaddy</strong></td>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/AWS/svg/Networking-Content-Delivery/Route-53.svg" width="32" height="32"/><br><strong>Route 53</strong></td>
-      <td align="center" width="100"><img src="https://img.icons8.com/?size=256w&id=LhQ8M0RI4YLP&format=png" width="32" height="32"/><br><strong>Nginx</strong></td>
-      <td align="center" width="100"><img src="https://logo.svgcdn.com/l/apache-8x.png" width="32" height="32"/><br><strong>Apache</strong></td>
-      <td align="center" width="100"><img src="https://iamops.io/wp-content/uploads/2024/06/Jenkins.svg" width="32" height="32"/><br><strong>Jenkins</strong></td>
-      <td align="center" width="100"><img src="https://cdn.simpleicons.org/gitlab/FC6D26" width="32" height="32"/><br><strong>GitLab CI</strong></td>
-    </tr>
-    <tr>
-      <td align="center" width="100"><img src="https://iamops.io/wp-content/uploads/2024/06/github-actions.svg" width="32" height="32"/><br><strong>GitHub Actions</strong></td>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/BitBucket.svg" width="32" height="32"/><br><strong>BitBucket</strong></td>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/AWS/svg/Developer-Tools/CodePipeline.svg" width="32" height="32"/><br><strong>CodePipeline</strong></td>
-      <td align="center" width="100"><img src="https://www.wecoderight.com/wp-content/uploads/2023/06/azure.png" width="32" height="32"/><br><strong>Azure Pipeline</strong></td>
-      <td align="center" width="100"><img src="https://cdn.simpleicons.org/prometheus/E6522C" width="32" height="32"/><br><strong>Prometheus</strong></td>
-      <td align="center" width="100"><img src="https://cdn.simpleicons.org/grafana/F46800" width="32" height="32"/><br><strong>Grafana</strong></td>
-      <td align="center" width="100"><img src="https://elpuig.xeill.net/Members/vcarceler/articulos/introduccion-a-la-monitorizacion-con-grafana-y-loki/logo-1.png/@@images/13dd22a2-267b-4821-99ed-3e153d86ce7c.png" width="32" height="32"/><br><strong>Loki</strong></td>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/png-shadow-512/Elastic-Search.png" width="32" height="32"/><br><strong>ELK Stack</strong></td>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/Kibana.svg" width="32" height="32"/><br><strong>Kibana</strong></td>
-    </tr>
-    <tr>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/Technology/svg/Logstash.svg" width="32" height="32"/><br><strong>LogStash</strong></td>
-      <td align="center" width="100"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/dns-5528460-4659348.png?f=webp&w=256" width="32" height="32"/><br><strong>DNS</strong></td>
-      <td align="center" width="100"><img src="https://symbols.getvecta.com/stencil_9/39_load-balancer.af7d4495ba.svg" width="32" height="32"/><br><strong>Load Balancing</strong></td>
-      <td align="center" width="100"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/firewall-2306882-1948591.png?f=webp&w=256" width="32" height="32"/><br><strong>Firewall</strong></td>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/IAM-Identity-Center.svg" width="32" height="32"/><br><strong>IAM</strong></td>
-      <td align="center" width="100"><img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/ssl-icon-download-in-svg-png-gif-file-formats--security-certificate-shield-protection-lock-web-hosting-pack-design-development-icons-10801665.png?f=webp&w=256" width="32" height="32"/><br><strong>SSL</strong></td>
-      <td align="center" width="100"><img src="https://icon.icepanel.io/AWS/svg/Security-Identity-Compliance/Secrets-Manager.svg" width="32" height="32"/><br><strong>Secret Manager</strong></td>
-      <td align="center" width="100"><img src="https://logo.svgcdn.com/d/sonarqube-original-8x.png" width="32" height="32"/><br><strong>SonarQube</strong></td>
-      <td align="center" width="100"><img src="https://artifacthub.io/image/23e5c086-737a-4d46-b96a-da28674322a6@4x" width="32" height="32"/><br><strong>Trivy</strong></td>
-    </tr>
-  </table>
-</div>
-
-</body>
-</html>
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
