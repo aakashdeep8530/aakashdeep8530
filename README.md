@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=220&section=header&text=DevOps%20Engineer&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Cloud%20Infrastructure%20%7C%20Automation%20%7C%20Monitoring%20%7C%20Scalability&descAlignY=55&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=DevOps%20Engineer&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Cloud%20Infrastructure%20%7C%20Automation%20%7C%20Monitoring%20%7C%20Scalability&descAlignY=55&descSize=20" />
 
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=32&center=true&vCenter=true&width=600&height=50&duration=4000&pause=1000&color=667eea&lines=Cloud+Infrastructure+Specialist;Automation+%26+CI%2FCD+Expert;Container+Orchestration;Infrastructure+as+Code" />
 </div>
@@ -257,13 +257,10 @@ philosophy: "Automate everything, monitor everything, secure everything"
   </a>
   <img src="https://komarev.com/ghpvc/?username=aakashdeep8530&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
 </div>
-
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </div>
-
 <div align="center">
   <h3>💭 DevOps Philosophy</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Infrastructure%20as%20Code%20is%20not%20just%20a%20practice,%20it's%20a%20mindset%20that%20transforms%20how%20we%20build%20and%20scale%20systems.&author=DevOps%20Engineer" alt="DevOps Quote" />
@@ -271,11 +268,7 @@ philosophy: "Automate everything, monitor everything, secure everything"
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-  
   **"Automate everything, monitor everything, secure everything."**
-  
   <br>
-  
   **Thanks for visiting! Let's build the future of infrastructure together! 🚀**
-  
 </div>
