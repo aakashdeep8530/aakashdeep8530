@@ -31,8 +31,16 @@ philosophy: "Automate everything, monitor everything, secure everything"
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aakashdeep8530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdeep8530&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" alt="GitHub Streak" height="180"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=aakashdeep8530&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=667eea&icon_color=667eea&text_color=c9d1d9" 
+    alt="GitHub Stats" 
+    height="180"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=aakashdeep8530&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=667eea&fire=667eea&currStreakLabel=667eea" 
+    alt="GitHub Streak" 
+    height="180"
+  />
 </div>
 
 <div align="">
