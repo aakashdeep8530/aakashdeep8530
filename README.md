@@ -262,7 +262,7 @@ philosophy: "Automate everything, monitor everything, secure everything"
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </div>
 <div align="center">
-  <h3>💭Philosophy</h3>
+  <h3>Philosophy</h3>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Infrastructure%20as%20Code%20is%20not%20just%20a%20practice,%20it's%20a%20mindset%20that%20transforms%20how%20we%20build%20and%20scale%20systems.&author=DevOps%20Engineer" alt="DevOps Quote" />
 </div>
 
