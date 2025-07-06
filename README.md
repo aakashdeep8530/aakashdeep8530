@@ -113,7 +113,7 @@ philosophy: "Automate everything, monitor everything, secure everything"
         <br><strong>Nginx</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://logo.svgcdn.com/l/apache-8x.png" width="50" height="50" alt="Apache"/>
+        <img src="https://logo.svgcdn.com/l/apache-2x.png" width="50" height="50" alt="Apache"/>
         <br><strong>Apache</strong>
       </td>
       <td align="center" width="100">
