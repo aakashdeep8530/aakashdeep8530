@@ -38,7 +38,7 @@ philosophy: "Automate everything, monitor everything, secure everything"
 </div>
 
 <div align="">
-  <img src="https://github-profile-trophy.vercel.app/?username=aakashdeep8530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aakashdeep8530&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=9" alt="GitHub Trophies" />
 </div>
 
 ## 💻 Tech Stack & Expertise
