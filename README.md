@@ -222,19 +222,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aakashdeep8530&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&text_color=c9d1d9" alt="Top Languages" />
 </div>
 
-## 🏆 Professional Certifications & Achievements
-
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-DevOps%20Engineer-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-CKA%20Certified-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-Certified%20Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-Associate-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-Certified%20Engineer-D33833?style=for-the-badge&logo=jenkins&logoColor=white" />
-  
-</div>
-
 ## 🎯 Current Focus & Expertise
 
 <div align="center">
@@ -259,24 +246,16 @@ philosophy: "Automate everything, monitor everything, secure everything"
 
 <div align="center">
   
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/aakashdeep8530/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:aakashdeepsingh69146@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://aakashdeep-singh.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=firefox&logoColor=white" />
   </a>
-  
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=aakashdeep8530&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/aakashdeep8530?label=Followers&style=for-the-badge&color=667eea" alt="GitHub Followers" />
 </div>
 
 ---
