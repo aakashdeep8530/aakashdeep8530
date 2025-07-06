@@ -259,7 +259,6 @@ philosophy: "Automate everything, monitor everything, secure everything"
 </div>
 
 ---
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
 </div>
