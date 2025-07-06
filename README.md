@@ -51,15 +51,15 @@ philosophy: "Automate everything, monitor everything, secure everything"
   <table>
     <tr>
       <td align="center" width="100">
-        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="50" height="50" alt="Linux"/>
+        <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="40" height="40" alt="Linux"/>
         <br><strong>Linux</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" width="50" height="50" alt="Windows"/>
+        <img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" width="40" height="40" alt="Windows"/>
         <br><strong>Windows</strong>
       </td>
       <td align="center" width="100">
-        <img src="https://iamops.io/wp-content/uploads/2024/06/aws.svg" width="50" height="50" alt="AWS"/>
+        <img src="https://iamops.io/wp-content/uploads/2024/06/aws.svg" width="40" height="40" alt="AWS"/>
         <br><strong>AWS</strong>
       </td>
       <td align="center" width="100">
