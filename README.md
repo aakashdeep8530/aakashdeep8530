@@ -55,7 +55,7 @@ experience:
 </div>
 
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse; width: 100%;">
     <tr>
       <td align="center" width="100">
         <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="50" height="50" alt="Linux"/>
