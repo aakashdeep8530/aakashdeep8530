@@ -55,13 +55,13 @@ experience:
 </div>
 
 <div align="center">
-  <table style="border-collapse: collapse;">
+  <table>
     <tr>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: none;>
         <img src="https://icon.icepanel.io/Technology/png-shadow-512/Linux.png" width="50" height="50" alt="Linux"/>
         <br><strong>Linux</strong>
       </td>
-      <td align="center" width="100">
+      <td align="center" width="100" style="border: none;>
         <img src="https://icon.icepanel.io/Technology/svg/Windows-11.svg" width="50" height="50" alt="Windows"/>
         <br><strong>Windows</strong>
       </td>
