@@ -1,0 +1,17 @@
+name: Deploy static content to Pages
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Copy folder to deployment directory
+        run: |
+          sudo rm -rf /var/www/html/* && sudo cp -r . /var/www/html/
+          echo "✅ Folder copied successfully."
