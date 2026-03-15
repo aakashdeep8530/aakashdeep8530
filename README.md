@@ -22,7 +22,7 @@ current_focus:
   - "Cloud Architecture & Security"
   - "Monitoring & Observability"
 experience:
-  - "1+ years in DevOps & Cloud Engineering"
+  - "1.8+ years in DevOps & Cloud Engineering"
   - "Multi-cloud expertise (AWS, Azure)"
   - "Enterprise-scale infrastructure management"
 ```
